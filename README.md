@@ -8,6 +8,7 @@ A simple yet effective n8n workflow automation created to **automatically send p
 4. Click the `three dots (⋮)` menu.
 5. Select `Import from File`.
 6. Choose your saved JSON file.
+7. Adjust the necessary parts to fit the owner’s settings.
 
 # 🧩 How it works?
 1. **Trigger**: Runs daily.
