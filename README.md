@@ -1,5 +1,5 @@
 # ⚡ Greeting Automation
-A simple yet effective n8n workflow automation created to **automatically send personalized birthday greeting emails** to recipients on their birthdays. This workflow is designed to run daily, check the stored birthday data, and send warm, customized messages, ensuring that no birthday goes unnoticed and adding a personal touch to automated communications.
+A simple yet effective n8n workflow automation created to **automatically send personalized birthday greeting emails** to recipients on their birthdays. This workflow runs daily to check birthdays and send personalized greeting emails automatically.
 
 # 🚀 Getting Started
 1. Download `greeting-automation.json`.
